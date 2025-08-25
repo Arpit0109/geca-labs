@@ -5,3 +5,8 @@
 
 # 💡 TIP:
 # Use `import math`, and remember degrees must be converted to radians.
+
+import math
+sqrt_144 = math.sqrt(144)
+pi_value = math.pi
+sin_90_degrees = math.sin(math.radians(90)) 

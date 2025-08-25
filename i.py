@@ -3,3 +3,4 @@
 
 # 💡 TIP:
 # Use `for item in list` and `enumerate(list)` for both item and index.
+my_list = ['apple', 'banana', 'cherry', 'date']

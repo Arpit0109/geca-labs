@@ -4,3 +4,4 @@
 
 # 💡 TIP:
 # Tuples are like lists, but immutable (they cannot be changed).
+my_tuple = (1, 2, 3)

@@ -5,3 +5,14 @@
 
 # 💡 TIP:
 # Use `while True` with `if` and `break`.
+
+import time
+from datetime import datetime
+import sys
+import os
+
+
+def clear_console():
+    os.system('cls' if os.name == 'nt' else 'clear')   
+   
+

@@ -4,3 +4,7 @@
 
 # 💡 TIP:
 # Use .append(), .sort(), and .reverse()
+my_list = []
+my_list.append("banana")
+my_list.append("apple")
+my_list.append("cherry")    
